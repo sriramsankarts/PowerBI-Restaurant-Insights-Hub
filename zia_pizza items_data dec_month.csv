@@ -1,0 +1,190 @@
+S.no,Product Code,Item Name,Category Name,Menu,Qty,Gross Sales,Net Sales,Taxes,Orders,% Sales,Order Source
+1,,Coke,Drinks,Food Menu,40,£0.00,£0.00,£0.00,20,0.00%,All
+2,,Diet Coke,Drinks,Food Menu,15,£0.00,£0.00,£0.00,12,0.00%,All
+3,,Orange Tango,Drinks,Food Menu,18,£0.00,£0.00,£0.00,15,0.00%,All
+4,,Lemonade,Drinks,Food Menu,13,£0.00,£0.00,£0.00,9,0.00%,All
+5,,Apple Juice,Drinks,Food Menu,4,£0.00,£0.00,£0.00,3,0.00%,All
+6,,Dubai Chocolate Tiramisu,Zia Signatures,Food Menu,7,£48.65,£40.54,£8.11,5,0.34%,All
+7,,Zia Burrata Truffle Pizza,Zia Signatures,Food Menu,6,£89.70,£74.75,£14.95,6,0.62%,All
+8,,Whitehorse Pizza (Westbury Special),Zia Signatures,Food Menu,4,£53.80,£44.83,£8.97,4,0.37%,All
+9,,Lasagne Al Forno,Zia Signatures,Food Menu,3,£25.90,£21.58,£4.32,3,0.18%,All
+10,,Classic Fries,Sides,Food Menu,31,£103.42,£87.02,£16.40,29,0.72%,All
+11,,Mozzarella Bites,Sides,Food Menu,11,£51.75,£43.13,£8.62,10,0.36%,All
+12,,Arancini Bolognese,Sides,Food Menu,8,£34.97,£29.14,£5.83,8,0.24%,All
+13,,Potato Croquettes,Sides,Food Menu,2,£11.90,£9.92,£1.98,2,0.08%,All
+14,,Crispy Spicy Chicken Bites,Sides,Food Menu,12,£53.55,£44.63,£8.92,12,0.37%,All
+15,,Zia Street Platter,Sides,Food Menu,3,£30.85,£25.88,£4.97,3,0.21%,All
+16,,Margherita 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,53,£470.95,£397.98,£72.97,51,3.27%,All
+17,,Pepperoni 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,49,£470.20,£395.31,£74.89,47,3.26%,All
+18,,Vegetariana 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,18,£191.10,£159.75,£31.35,18,1.33%,All
+19,,Funghi 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,7,£80.10,£67.33,£12.77,7,0.56%,All
+20,,Hawaiian 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,31,£332.11,£277.58,£54.53,27,2.30%,All
+21,,Zia Special 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,37,£509.80,£425.08,£84.72,34,3.54%,All
+22,,Beef Brisket BBQ 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,23,£117.55,£98.28,£19.27,9,0.82%,All
+23,,Pollo Barbecue 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,14,£171.90,£144.00,£27.90,14,1.19%,All
+24,,Frutti di Mare 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,9,£134.25,£112.13,£22.12,9,0.93%,All
+25,,Margherita 6Inch,Pizzette 6Inch,Food Menu,30,£35.40,£29.50,£5.90,24,0.25%,All
+26,,Pepperoni 6Inch,Pizzette 6Inch,Food Menu,14,£28.00,£23.33,£4.67,14,0.19%,All
+27,,Zia Special 6Inch,Pizzette 6Inch,Food Menu,8,£19.75,£16.46,£3.29,6,0.14%,All
+28,,Pollo Barbecue 6Inch,Pizzette 6Inch,Food Menu,9,£7.90,£6.58,£1.32,8,0.05%,All
+29,,Vegetariana 6Inch,Pizzette 6Inch,Food Menu,2,£3.95,£3.29,£0.66,2,0.03%,All
+30,,Funghi 6Inch,Pizzette 6Inch,Food Menu,8,£10.50,£8.75,£1.75,6,0.07%,All
+31,,Spicy Vodka Rigatoni,Pastas,Food Menu,1,£10.95,£9.13,£1.82,1,0.08%,All
+32,,Truffle Mushroom Alfredo,Pastas,Food Menu,6,£69.25,£58.88,£10.37,6,0.48%,All
+33,,Chicken Alfredo,Pastas,Food Menu,16,£159.20,£132.67,£26.53,14,1.10%,All
+34,,Bolognese (Spaghetti),Pastas,Food Menu,14,£119.40,£99.50,£19.90,12,0.83%,All
+35,,Carbonara (Spaghetti),Pastas,Food Menu,19,£172.15,£143.96,£28.19,15,1.19%,All
+36,,Penne Arrabbiata,Pastas,Food Menu,2,£19.00,£15.83,£3.17,2,0.13%,All
+37,,Dubai Chocolate Tiramisu,Zia Tiramisu,Food Menu,5,£34.75,£28.96,£5.79,5,0.24%,All
+38,,Biscoff Tiramisu,Zia Tiramisu,Food Menu,6,£41.70,£34.75,£6.95,5,0.29%,All
+39,,Mini Cannoli,Desserts,Food Menu,1,£5.95,£4.96,£0.99,1,0.04%,All
+40,,Profiteroles,Desserts,Food Menu,3,£5.50,£4.58,£0.92,2,0.04%,All
+41,,Gelato Cup,Desserts,Food Menu,4,£7.90,£6.58,£1.32,3,0.05%,All
+42,,Gluten-Free Tiramisu,Zia Tiramisu,Food Menu,1,£6.50,£5.42,£1.08,1,0.05%,All
+43,,Pizzas,Deals,Deals Menu,23,£12.00,£12.00,£0.00,14,0.08%,All
+44,,Upgrade,Deals,Deals Menu,30,£17.91,£17.91,£0.00,24,0.12%,All
+45,,Peroni Nastro Azzurro (330ml),Bottled Beers and Ciders,Drinks,62,£306.90,£255.75,£51.15,40,2.13%,All
+46,,Corona Extra (330ml),Bottled Beers and Ciders,Drinks,3,£14.85,£12.38,£2.47,2,0.10%,All
+47,,Doombar Amber Ale (500ml),Bottled Beers and Ciders,Drinks,4,£19.80,£16.50,£3.30,4,0.14%,All
+48,,Bulmers Original Cider (500ml),Bottled Beers and Ciders,Drinks,10,£49.50,£41.25,£8.25,7,0.34%,All
+49,,Kopparberg Mixed Fruit (500ml),Bottled Beers and Ciders,Drinks,3,£14.85,£12.38,£2.47,3,0.10%,All
+50,,Red Wine,House Wines,Drinks,6,£41.75,£34.79,£6.96,6,0.29%,All
+51,,White Wine,House Wines,Drinks,2,£12.75,£10.63,£2.12,2,0.09%,All
+52,,Pinot Grigio (White),House Wines,Drinks,2,£14.90,£12.42,£2.48,2,0.10%,All
+53,,Pinot Grigio Blush,House Wines,Drinks,6,£37.90,£31.58,£6.32,6,0.26%,All
+54,,Prosecco DOC,House Wines,Drinks,3,£20.25,£16.88,£3.37,3,0.14%,All
+55,,Coca-Cola,Drinks,Drinks,46,£135.70,£113.08,£22.62,38,0.94%,All
+56,,Diet Coke,Drinks,Drinks,21,£60.49,£50.41,£10.08,15,0.42%,All
+57,,Coke Zero,Drinks,Drinks,14,£41.30,£34.42,£6.88,7,0.29%,All
+58,,Fanta,Drinks,Drinks,8,£20.65,£17.21,£3.44,8,0.14%,All
+59,,Sprite,Drinks,Drinks,6,£17.70,£14.75,£2.95,5,0.12%,All
+60,,Rio Tropical,Drinks,Drinks,11,£32.45,£27.04,£5.41,11,0.23%,All
+61,,San Pellegrino Orange,Drinks,Drinks,1,£2.95,£2.46,£0.49,1,0.02%,All
+62,,San Pellegrino Lemon,Drinks,Drinks,3,£8.85,£7.38,£1.47,3,0.06%,All
+63,,Apple Juice,Drinks,Drinks,7,£19.25,£16.04,£3.21,6,0.13%,All
+64,,Still Water (300ml),Drinks,Drinks,7,£15.75,£13.13,£2.62,5,0.11%,All
+65,,Sparkling Water (300ml),Drinks,Drinks,1,£2.25,£1.88,£0.37,1,0.02%,All
+66,,J2 - Apple and Mango,Drinks,Drinks,6,£17.70,£14.75,£2.95,5,0.12%,All
+67,,J2 - Orange and Passionfruit,Drinks,Drinks,11,£32.45,£27.04,£5.41,11,0.23%,All
+68,,Americano,Hot Drinks,Drinks,1,£2.75,£2.29,£0.46,1,0.02%,All
+69,,Cappuccino,Hot Drinks,Drinks,1,£3.25,£2.71,£0.54,1,0.02%,All
+70,,Latte,Hot Drinks,Drinks,1,£3.25,£2.71,£0.54,1,0.02%,All
+71,,Tea,Hot Drinks,Drinks,1,£2.25,£1.88,£0.37,1,0.02%,All
+72,,Garlic Focaccia Bread,Sides,Food Menu,25,£87.57,£74.23,£13.34,21,0.61%,All
+73,,Arancini Spinach and Mozzarella,Sides,Food Menu,4,£23.80,£17.85,£3.97,3,0.17%,All
+74,,Dubai Chocolate Tiramisu,Signatures,Third Party Menu,8,£58.14,£58.14,£0.00,8,0.40%,All
+75,,Classic Fries (VG),Sides,Third Party Menu,65,£281.11,£279.87,£1.23,55,1.95%,All
+76,,Garlic Focaccia Bread (V),Sides,Third Party Menu,12,£46.83,£46.83,£0.00,11,0.32%,All
+77,,Mozzarella Bites (V),Sides,Third Party Menu,25,£156.75,£156.75,£0.00,25,1.09%,All
+78,,Arabcini Bolognese,Sides,Third Party Menu,8,£51.64,£51.64,£0.00,7,0.36%,All
+79,,Arancini Spinach and Mozzarella,Sides,Third Party Menu,12,£77.98,£77.98,£0.00,12,0.54%,All
+80,,Potato Croquettes (V),Sides,Third Party Menu,6,£40.01,£40.01,£0.00,6,0.28%,All
+81,,Crispy Spicy Chicken Bites,Sides,Third Party Menu,15,£96.44,£96.44,£0.00,12,0.67%,All
+82,,Zia Street Platter,Sides,Third Party Menu,16,£175.07,£175.07,£0.00,14,1.21%,All
+83,,Lasagne Al Forno,Signatures,Third Party Menu,11,£147.47,£147.47,£0.00,11,1.02%,All
+84,,Whitehorse Pizza (Westbury Special),Signatures,Third Party Menu,5,£74.98,£74.98,£0.00,5,0.52%,All
+85,,Zia Burrata Truffle Pizza,Signatures,Third Party Menu,1,£14.61,£14.61,£0.00,1,0.10%,All
+86,,Spicy Vodka Rigatoni (V),Pastas,Third Party Menu,10,£127.33,£126.04,£1.28,10,0.88%,All
+87,,Truffle Mushroom Alfredo (V),Pastas,Third Party Menu,9,£123.73,£122.61,£1.12,9,0.86%,All
+88,,Chicken Alfredo,Pastas,Third Party Menu,16,£178.33,£177.72,£0.62,14,1.24%,All
+89,,Bolognese (Spaghetti),Pastas,Third Party Menu,29,£311.16,£311.16,£0.00,24,2.16%,All
+90,,Carbonara (Spaghetti),Pastas,Third Party Menu,30,£345.43,£343.32,£2.12,27,2.40%,All
+91,,Penne Arrabbiata (VG),Pastas,Third Party Menu,11,£127.22,£125.27,£1.95,11,0.88%,All
+92,,Seafood Linguine,Pastas,Third Party Menu,5,£62.67,£62.17,£0.50,5,0.43%,All
+93,,Margherita (V),Pizzette (6Inch),Third Party Menu,16,£47.33,£47.33,£0.00,16,0.33%,All
+94,,Pepperoni,Pizzette (6Inch),Third Party Menu,9,£34.37,£34.37,£0.00,7,0.24%,All
+95,,Zia Special,Pizzette (6Inch),Third Party Menu,5,£21.34,£21.34,£0.00,5,0.15%,All
+96,,Pollo Barbecue,Pizzette (6Inch),Third Party Menu,1,£3.86,£3.86,£0.00,1,0.03%,All
+97,,Vegetariana (V),Pizzette (6Inch),Third Party Menu,1,£4.54,£4.54,£0.00,1,0.03%,All
+98,,Funghi (V),Pizzette (6Inch),Third Party Menu,4,£13.61,£13.61,£0.00,4,0.09%,All
+99,,Kids Meal - under 12,Pizzette (6Inch),Third Party Menu,4,£35.19,£35.19,£0.00,3,0.24%,All
+100,,Margherita 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,60,£681.85,£679.40,£2.45,51,4.73%,All
+101,,Pepperoni 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,72,£878.10,£874.83,£3.27,66,6.09%,All
+102,,Vegetariana 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,11,£135.36,£135.11,£0.25,11,0.94%,All
+103,,Funghi (V) 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,15,£202.92,£201.96,£0.96,14,1.41%,All
+104,,Hawaiian 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,40,£490.21,£489.59,£0.63,38,3.40%,All
+105,,Zia Special 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,24,£379.78,£379.21,£0.56,23,2.64%,All
+106,,Beef Brisket BBQ 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,15,£247.86,£247.61,£0.25,15,1.72%,All
+107,,Pollo Barbecue 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,13,£197.35,£197.10,£0.25,12,1.37%,All
+108,,Frutti di Mare 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,2,£35.87,£35.87,£0.00,2,0.25%,All
+109,,Any 4 Pizzette Combo,Pizzette (6Inch),Third Party Menu,1,£13.64,£13.64,£0.00,1,0.09%,All
+110,,Dubai Chocolate Tiramisu,ZIA TIRAMISU,Third Party Menu,7,£53.54,£53.54,£0.00,7,0.37%,All
+111,,Classic Tiramisu,ZIA TIRAMISU,Third Party Menu,13,£86.53,£86.53,£0.00,12,0.60%,All
+112,,Limoncello Tiramisu,ZIA TIRAMISU,Third Party Menu,2,£14.78,£14.78,£0.00,2,0.10%,All
+113,,Biscoff Tiramisu,ZIA TIRAMISU,Third Party Menu,7,£53.53,£53.53,£0.00,7,0.37%,All
+114,,Mini Cannoli,Desserts -,Third Party Menu,2,£13.68,£13.68,£0.00,2,0.09%,All
+115,,Profiteroles,Desserts -,Third Party Menu,2,£11.69,£11.69,£0.00,2,0.08%,All
+116,,Gelato Cup,Desserts -,Third Party Menu,1,£4.54,£4.54,£0.00,1,0.03%,All
+117,,Gluten-Free Tiramisu,ZIA TIRAMISU,Third Party Menu,1,£7.47,£7.47,£0.00,1,0.05%,All
+118,,Gluten-Free Lemon Tart,Desserts -,Third Party Menu,1,£3.54,£3.54,£0.00,1,0.02%,All
+119,,Solo Deal,Deals,Third Party Menu,8,£60.52,£60.52,£0.00,5,0.42%,All
+120,,Duo Box,Deals,Third Party Menu,6,£72.03,£72.03,£0.00,6,0.50%,All
+121,,Italian Comfort Box,Deals,Third Party Menu,13,£241.08,£240.41,£0.67,12,1.67%,All
+122,,Pizza Night Duo,Deals,Third Party Menu,21,£617.61,£617.18,£0.43,21,4.29%,All
+123,,Party Pack,Deals,Third Party Menu,4,£188.48,£188.48,£0.00,4,1.31%,All
+124,,Solo Pizza Deal,Deals,Third Party Menu,17,£342.95,£342.95,£0.00,17,2.38%,All
+125,,Coca-Cola,Drinks,Third Party Menu,14,£33.86,£33.86,£0.00,12,0.23%,All
+126,,Diet Coke,Drinks,Third Party Menu,2,£6.78,£6.78,£0.00,2,0.05%,All
+127,,Fanta,Drinks,Third Party Menu,4,£9.54,£9.54,£0.00,4,0.07%,All
+128,,Rio Tropical,Drinks,Third Party Menu,7,£15.40,£15.40,£0.00,7,0.11%,All
+129,,San Pellegrino - Orange,Drinks,Third Party Menu,3,£6.24,£6.24,£0.00,3,0.04%,All
+130,,San Pellegrino - Lemon,Drinks,Third Party Menu,5,£15.93,£15.93,£0.00,4,0.11%,All
+131,,Apple Juice,Drinks,Third Party Menu,2,£4.68,£4.68,£0.00,2,0.03%,All
+132,,Sparkling Water (300ml),Drinks,Third Party Menu,1,£2.58,£2.58,£0.00,1,0.02%,All
+133,,J2 (Apple and Mango),Drinks,Third Party Menu,2,£5.68,£5.68,£0.00,2,0.04%,All
+134,,Pepperoni 6Inch,Pizzette 6Inch,Food Menu,1,£0.00,£0.00,£0.00,1,0.00%,All
+135,,Classic Green Salad(Vg),Sides,Third Party Menu,10,£55.19,£55.19,£0.00,10,0.38%,All
+136,,Caprese Salad(V),Sides,Third Party Menu,8,£60.32,£60.32,£0.00,8,0.42%,All
+137,,Burrata Salad(V),Sides,Third Party Menu,6,£63.53,£63.53,£0.00,4,0.44%,All
+138,,Classic Green Salad(Vg),Sides,Food Menu,2,£9.90,£9.90,£0.00,2,0.07%,All
+139,,Burrata Salad(V),Sides,Food Menu,2,£18.90,£18.90,£0.00,2,0.13%,All
+140,,Garlic Mayo,Dips,Third Party Menu,55,£53.35,£53.35,£0.00,41,0.37%,All
+141,,BBQ,Dips,Third Party Menu,5,£4.40,£4.40,£0.00,5,0.03%,All
+142,,Hot Chilli,Dips,Third Party Menu,4,£3.85,£3.85,£0.00,4,0.03%,All
+143,,Sweet Chilli,Dips,Third Party Menu,8,£7.70,£7.70,£0.00,8,0.05%,All
+144,,Ketchup,Dips,Third Party Menu,1,£1.00,£1.00,£0.00,1,0.01%,All
+145,,Truffle Mayo,Dips,Third Party Menu,9,£8.85,£8.85,£0.00,7,0.06%,All
+146,,House Italian Herb Mayo,Dips,Third Party Menu,13,£12.10,£12.10,£0.00,11,0.08%,All
+147,,Garlic Mayo,Dips,Food Menu,8,£8.00,£8.00,£0.00,7,0.06%,All
+148,,Hot Chilli,Dips,Food Menu,2,£2.00,£2.00,£0.00,2,0.01%,All
+149,,Sweet Chilli,Dips,Food Menu,2,£2.00,£2.00,£0.00,2,0.01%,All
+150,,Truffle Mayo,Dips,Food Menu,1,£1.00,£1.00,£0.00,1,0.01%,All
+151,,House Italian Herb Mayo,Dips,Food Menu,4,£4.00,£4.00,£0.00,4,0.03%,All
+152,,Truffle Focaccia Bread,Sides,Third Party Menu,1,£5.69,£5.69,£0.00,1,0.04%,All
+153,,6Inch Garlic Pizzette,Sides,Third Party Menu,3,£11.92,£11.67,£0.25,3,0.08%,All
+154,,Chicken Tikka Supreme 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,2,£34.03,£34.03,£0.00,2,0.24%,All
+155,,Vitto Signature Special 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,1,£19.94,£19.94,£0.00,1,0.14%,All
+156,,Hot Honey Pepperoni,Signatures,Third Party Menu,21,£317.70,£317.70,£0.00,20,2.20%,All
+157,,Zia Meatball Bolognese 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,2,£14.45,£12.04,£2.41,2,0.10%,All
+158,,Zia Meatball Bolognese 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,10,£171.35,£170.60,£0.75,10,1.19%,All
+159,,Lasagne Combo Deal,Offer,Third Party Menu,7,£79.57,£79.15,£0.42,6,0.55%,All
+160,,Garlic Dough Balls,Dough Balls (7 pcs),Food Menu,5,£0.00,£0.00,£0.00,4,0.00%,All
+161,,Hot Honey Dough Balls,Dough Balls (7 pcs),Food Menu,16,£0.00,£0.00,£0.00,3,0.00%,All
+162,,Cheesy Dough Balls,Dough Balls (7 pcs),Food Menu,13,£12.75,£12.75,£0.00,11,0.09%,All
+163,,Garlic Dough Balls,Dough Balls,Third Party Menu,12,£50.43,£50.43,£0.00,12,0.35%,All
+164,,Hot Honey Dough Balls,Dough Balls,Third Party Menu,6,£28.55,£28.55,£0.00,6,0.20%,All
+165,,Cheesy Dough Balls,Dough Balls,Third Party Menu,15,£66.49,£66.49,£0.00,15,0.46%,All
+166,,Truffle Parmesan Dough Balls,Dough Balls,Third Party Menu,5,£28.45,£28.45,£0.00,5,0.20%,All
+167,,Hot Honey Gammon Pizza 12Inch,Stone-Baked Pizzas (12Inch),Third Party Menu,5,£75.39,£75.39,£0.00,5,0.52%,All
+168,,Classic Crispy Chicken Wings (6 pcs),Chicken,Food Menu,1,£6.25,£5.21,£1.04,1,0.04%,All
+169,,Southern Fried Chicken Strips (5 pcs),Chicken,Food Menu,1,£6.25,£5.21,£1.04,1,0.04%,All
+170,,Chicken Alfredo Loaded Fries,Loaded Fries,Third Party Menu,8,£71.75,£71.75,£0.00,8,0.50%,All
+171,,BBQ Chicken Loaded Fries,Loaded Fries,Third Party Menu,12,£97.58,£97.58,£0.00,11,0.68%,All
+172,,Garlic Parmesan Loaded Fries (V),Loaded Fries,Third Party Menu,7,£55.93,£55.93,£0.00,7,0.39%,All
+173,,Classic Crispy Chicken Wings (6 pcs),Chicken,Third Party Menu,4,£27.64,£27.64,£0.00,4,0.19%,All
+174,,BBQ Chicken Wings (6 pcs),Chicken,Third Party Menu,2,£15.52,£15.52,£0.00,2,0.11%,All
+175,,Sweet Chilli Chicken Wings (6 pcs),Chicken,Third Party Menu,1,£7.76,£7.76,£0.00,1,0.05%,All
+176,,Hot Honey Chicken Wings (6 pcs),Chicken,Third Party Menu,9,£72.47,£72.47,£0.00,5,0.50%,All
+177,,Southern Fried Chicken Strips (5 pcs),Chicken,Third Party Menu,4,£28.72,£28.72,£0.00,4,0.20%,All
+178,,Pizzette with Fries and Soft Drink,Express Lunch,Third Party Menu,4,£29.64,£29.64,£0.00,2,0.21%,All
+179,,Focaccia Sandwich with Soft Drink,Express Lunch,Third Party Menu,2,£14.78,£14.78,£0.00,2,0.10%,All
+180,,Any Classic 12Inch Pizza with Soft Drink,Express Lunch,Third Party Menu,2,£21.16,£21.16,£0.00,2,0.15%,All
+181,,Strawberry Cheese Cake Tiramisu,ZIA TIRAMISU,Third Party Menu,2,£13.58,£13.58,£0.00,2,0.09%,All
+182,,Mineral Water - Natural 330ml,Drinks,Food Menu,2,£0.00,£0.00,£0.00,2,0.00%,All
+183,,6Inch Garlic Pizzette,Sides,Food Menu,3,£7.40,£6.42,£0.98,2,0.05%,All
+184,,Chicken Tikka Supreme 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,1,£0.00,£0.00,£0.00,1,0.00%,All
+185,,Vitto Signature Special 12Inch,Stone-Baked Pizzas 12Inch,Food Menu,1,£0.00,£0.00,£0.00,1,0.00%,All
+186,,Hot Honey Pepperoni,Zia Signatures,Food Menu,7,£53.80,£44.83,£8.97,7,0.37%,All
+187,,Truffle Parmesan Dough Balls,Dough Balls (7 pcs),Food Menu,6,£0.00,£0.00,£0.00,5,0.00%,All
+188,,BBQ Chicken Loaded Fries,Loaded Fries,Food Menu,3,£22.35,£18.63,£3.72,3,0.16%,All
+Total,,,,,1975,"£14,412.06","£13,587.69",£822.39,1714,,

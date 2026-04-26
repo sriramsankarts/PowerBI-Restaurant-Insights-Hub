@@ -1,0 +1,254 @@
+S.no,Item Name,Category Name,Menu,Qty,Gross Sales,Net Sales,Taxes,Orders,% Sales,Order Source
+1,Calamari Fritti,Starters,Takeaway Menu,2,£16.90,£16.90,£0.00,2,0.12%,All
+2,Garlic Pizza Bread,Sides,Takeaway Menu,4,£17.80,£17.80,£0.00,4,0.12%,All
+3,Bolognese della Zia,Main Courses,Takeaway Menu,2,£12.95,£12.95,£0.00,2,0.09%,All
+4,Carbonara della Zia,Main Courses,Takeaway Menu,6,£61.75,£61.75,£0.00,4,0.43%,All
+5,Seafood Lovers,Main Courses,Takeaway Menu,2,£31.90,£31.90,£0.00,2,0.22%,All
+6,Amatriciana della Zia,Main Courses,Takeaway Menu,2,£0.00,£0.00,£0.00,2,0.00%,All
+7,Alfredo,Main Courses,Takeaway Menu,6,£61.75,£61.75,£0.00,5,0.43%,All
+8,Queen Margherita Pizza (V),Pizzas,Takeaway Menu,6,£64.50,£64.50,£0.00,5,0.45%,All
+9,Lady Vegetariana Pizza (V),Pizzas,Takeaway Menu,3,£29.90,£29.90,£0.00,2,0.21%,All
+10,Vitto Special Pizza,Pizzas,Takeaway Menu,1,£17.40,£17.40,£0.00,1,0.12%,All
+11,Hawaiiana Pizza,Pizzas,Takeaway Menu,2,£0.00,£0.00,£0.00,2,0.00%,All
+12,Al Prosciutto Pizza,Pizzas,Takeaway Menu,2,£32.85,£32.85,£0.00,2,0.23%,All
+13,La Parmigiana Pizza,Pizzas,Takeaway Menu,2,£35.75,£35.75,£0.00,2,0.25%,All
+14,Pollo Barbecue Pizza,Pizzas,Takeaway Menu,1,£0.00,£0.00,£0.00,1,0.00%,All
+15,Milano Pizza,Pizzas,Takeaway Menu,3,£32.15,£32.15,£0.00,3,0.22%,All
+16,DAvola Pizza,Pizzas,Takeaway Menu,5,£43.35,£43.35,£0.00,5,0.30%,All
+17,Zia Special Pizza,Pizzas,Takeaway Menu,2,£31.90,£31.90,£0.00,2,0.22%,All
+18,American Pepperoni Pizza,Pizzas,Takeaway Menu,6,£58.05,£58.05,£0.00,5,0.40%,All
+19,Tonno e Cipolla Pizza,Pizzas,Takeaway Menu,1,£0.00,£0.00,£0.00,1,0.00%,All
+20,Calzone Vitto Special,Calzone,Takeaway Menu,1,£16.45,£16.45,£0.00,1,0.11%,All
+21,Profiteroles,Desserts,Takeaway Menu,2,£11.00,£11.00,£0.00,1,0.08%,All
+22,Marinated Olives,Appetizers,Restaurant Menu,4,£18.56,£18.56,£0.00,4,0.13%,All
+23,Antipasto di Terra,To Share,Restaurant Menu,4,£55.80,£55.80,£0.00,4,0.39%,All
+24,Bruschetta al Pomodoro,Starter,Restaurant Menu,6,£44.02,£44.02,£0.00,5,0.31%,All
+25,Bruschetta al Pollo (Chicken),Starter,Restaurant Menu,6,£50.70,£50.70,£0.00,5,0.35%,All
+26,Calamari Fritti,Starter,Restaurant Menu,9,£73.28,£73.28,£0.00,7,0.51%,All
+27,Parmigiana Toscana,Starter,Restaurant Menu,1,£7.45,£7.45,£0.00,1,0.05%,All
+28,Polpette della Nonna Pina,Starter,Restaurant Menu,3,£25.35,£25.35,£0.00,3,0.18%,All
+29,Southern Fried Chicken Goujons (4 pieces),Starter,Restaurant Menu,6,£44.70,£44.70,£0.00,6,0.31%,All
+30,Tomato and Onion Salad,Sides,Restaurant Menu,5,£23.75,£23.75,£0.00,4,0.17%,All
+31,House Salad,Sides,Restaurant Menu,9,£38.82,£38.82,£0.00,9,0.27%,All
+32,Garlic Pizza Bread,Sides,Restaurant Menu,23,£98.49,£98.49,£0.00,21,0.69%,All
+33,Classic Fries,Sides,Restaurant Menu,27,£127.50,£127.50,£0.00,18,0.89%,All
+34,Lasagne al Emilia-Romagna,Main Course,Restaurant Menu,13,£196.95,£196.95,£0.00,12,1.37%,All
+35,Cannelloni Ricotta e Spinaci,Main Course,Restaurant Menu,6,£89.55,£89.55,£0.00,4,0.62%,All
+36,Arrabbiata (Tomato and Chili),Main Course,Restaurant Menu,4,£43.80,£43.80,£0.00,4,0.30%,All
+37,Bolognese della Zia,Main Course,Restaurant Menu,9,£116.55,£116.55,£0.00,8,0.81%,All
+38,Carbonara della Zia,Main Course,Restaurant Menu,5,£74.75,£74.75,£0.00,5,0.52%,All
+39,Seafood Lovers,Main Course,Restaurant Menu,6,£95.70,£95.70,£0.00,5,0.67%,All
+40,Amatriciana della Zia,Main Course,Restaurant Menu,4,£58.43,£58.43,£0.00,4,0.41%,All
+41,Alfredo,Main Course,Restaurant Menu,3,£44.85,£44.85,£0.00,3,0.31%,All
+42,Seafood Risotto,Risotto,Restaurant Menu,9,£143.55,£143.55,£0.00,9,1.00%,All
+43,Vegetable Risotto,Risotto,Restaurant Menu,3,£41.85,£41.85,£0.00,3,0.29%,All
+44,Queen Margherita Pizza (V),Pizza,Restaurant Menu,11,£97.54,£97.54,£0.00,7,0.68%,All
+45,Funghi Pizza (V),Pizza,Restaurant Menu,9,£109.25,£109.25,£0.00,9,0.76%,All
+46,Lady Vegetariana Pizza (V),Pizza,Restaurant Menu,2,£31.85,£31.85,£0.00,2,0.22%,All
+47,Quattro Formaggi Pizza,Pizza,Restaurant Menu,4,£44.85,£44.85,£0.00,4,0.31%,All
+48,Hawaiiana Pizza,Pizza,Restaurant Menu,8,£107.61,£107.61,£0.00,7,0.75%,All
+49,Al Prosciutto Pizza,Pizza,Restaurant Menu,4,£61.65,£61.65,£0.00,4,0.43%,All
+50,Bolognese Pizza,Pizza,Restaurant Menu,1,£16.40,£16.40,£0.00,1,0.11%,All
+51,Pollo Barbecue Pizza,Pizza,Restaurant Menu,5,£59.80,£59.80,£0.00,5,0.42%,All
+52,Milano Pizza,Pizza,Restaurant Menu,8,£118.59,£118.59,£0.00,7,0.83%,All
+53,DAvola Pizza,Pizza,Restaurant Menu,5,£66.92,£66.92,£0.00,4,0.47%,All
+54,Polpette della Zia Pizza,Pizza,Restaurant Menu,2,£30.90,£30.90,£0.00,2,0.22%,All
+55,Zia Special Pizza,Pizza,Restaurant Menu,13,£208.90,£208.90,£0.00,9,1.45%,All
+56,American Pepperoni Pizza,Pizza,Restaurant Menu,14,£194.69,£194.69,£0.00,13,1.36%,All
+57,Tonno e Cipolla Pizza,Pizza,Restaurant Menu,1,£13.95,£13.95,£0.00,1,0.10%,All
+58,Frutti di Mare Pizza,Pizza,Restaurant Menu,4,£68.00,£68.00,£0.00,4,0.47%,All
+59,Romana Pizza,Pizza,Restaurant Menu,2,£27.90,£27.90,£0.00,2,0.19%,All
+60,Calzone Cremoso,Calzone,Restaurant Menu,6,£95.70,£95.70,£0.00,6,0.67%,All
+61,Calzone Vitto Special,Calzone,Restaurant Menu,1,£16.45,£16.45,£0.00,1,0.11%,All
+62,Calzone Zia Special,Calzone,Restaurant Menu,6,£98.70,£98.70,£0.00,6,0.69%,All
+63,Calzone Pollo Barbecue,Calzone,Restaurant Menu,4,£61.80,£61.80,£0.00,4,0.43%,All
+64,Tiramisu,Dessert,Restaurant Menu,5,£32.25,£32.25,£0.00,4,0.22%,All
+65,Profiteroles,Dessert,Restaurant Menu,7,£38.50,£38.50,£0.00,6,0.27%,All
+66,Cheesecake,Dessert,Restaurant Menu,10,£64.50,£64.50,£0.00,5,0.45%,All
+67,Italian Affogato,Dessert,Restaurant Menu,5,£27.50,£27.50,£0.00,4,0.19%,All
+68,Bread and Butter Pudding,Dessert,Restaurant Menu,4,£22.00,£22.00,£0.00,4,0.15%,All
+69,Italian Ice Cream Selection (Gelato) - 1 Scoop,Dessert,Restaurant Menu,13,£19.92,£19.92,£0.00,5,0.14%,All
+70,Italian Ice Cream Selection (Gelato) - 2 Scoops,Dessert,Restaurant Menu,2,£7.98,£7.98,£0.00,2,0.06%,All
+71,Italian Ice Cream Selection (Gelato) - 3 Scoops,Dessert,Restaurant Menu,2,£10.98,£10.98,£0.00,1,0.08%,All
+72,Pizzas,Kids Menu,Restaurant Menu,17,£65.19,£65.19,£0.00,12,0.45%,All
+73,Pastas,Kids Menu,Restaurant Menu,3,£20.85,£20.85,£0.00,3,0.15%,All
+74,Fried Favorites,Kids Menu,Restaurant Menu,2,£11.35,£11.35,£0.00,2,0.08%,All
+75,Pinot Grigio DOC,White Wine,DRINKS,1,£7.95,£7.95,£0.00,1,0.06%,All
+76,Birra Moretti,Bottled Beer and Cider,DRINKS,1,£4.50,£4.50,£0.00,1,0.03%,All
+77,Lemonade,Soft Drinks,DRINKS,1,£2.95,£2.95,£0.00,1,0.02%,All
+78,Orange Juice,Soft Drinks,DRINKS,1,£2.95,£2.95,£0.00,1,0.02%,All
+79,Rio Tropical,Soft Drinks,DRINKS,2,£5.90,£5.90,£0.00,1,0.04%,All
+80,Tonic Water,Soft Drinks,DRINKS,1,£2.95,£2.95,£0.00,1,0.02%,All
+81,Buffalo Ridge Zinfandel Rose,Rose Wine,DRINKS,1,£8.45,£8.45,£0.00,1,0.06%,All
+82,Aperol Spritz,Classic Cocktails,DRINKS,1,£0.00,£0.00,£0.00,1,0.00%,All
+83,Limoncello Bellini,Classic Cocktails,DRINKS,2,£0.00,£0.00,£0.00,1,0.00%,All
+84,Angelo Poretti,Draught Beers and Ciders,DRINKS,1,£5.00,£5.00,£0.00,1,0.03%,All
+85,Garlic mayonnaise,Dips,Restaurant Menu,10,£3.00,£3.00,£0.00,3,0.02%,All
+86,Hot chili,Dips,Restaurant Menu,4,£1.20,£1.20,£0.00,3,0.01%,All
+87,Sweet chili,Dips,Restaurant Menu,1,£0.30,£0.30,£0.00,1,0.00%,All
+88,Calamari Fritti,Starters,SUNDAY ROAST SPECIALS MENU - duplicate,4,£34.00,£34.00,£0.00,3,0.24%,All
+89,Soda Water,Soft Drinks,DRINKS,1,£2.95,£2.95,£0.00,1,0.02%,All
+90,lime cordial,Soft Drinks,DRINKS,2,£1.50,£1.50,£0.00,1,0.01%,All
+91,Premium Cut Topside Beef,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,35,£642.41,£642.41,£0.00,22,4.47%,All
+92,Free-Range Organic Chicken,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,24,£382.80,£382.80,£0.00,16,2.66%,All
+93,Pan-Roasted Scottish Fillet Salmon,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,3,£53.85,£53.85,£0.00,3,0.37%,All
+94,Mediterranean Vegan Wellington,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,3,£44.85,£44.85,£0.00,3,0.31%,All
+95,Cauliflower Cheese,Sides,SUNDAY ROAST SPECIALS MENU - duplicate,19,£93.56,£93.56,£0.00,16,0.65%,All
+96,Chips,Sides,SUNDAY ROAST SPECIALS MENU - duplicate,2,£9.50,£9.50,£0.00,2,0.07%,All
+97,Cheesy Chips,Sides,SUNDAY ROAST SPECIALS MENU - duplicate,1,£5.75,£5.75,£0.00,1,0.04%,All
+98,Roast Potatoes,Sides,SUNDAY ROAST SPECIALS MENU - duplicate,5,£24.75,£24.75,£0.00,3,0.17%,All
+99,Garlic Pizza Bread,Sides,SUNDAY ROAST SPECIALS MENU - duplicate,3,£15.85,£15.85,£0.00,3,0.11%,All
+100,Profiteroles,Desserts,SUNDAY ROAST SPECIALS MENU - duplicate,2,£11.00,£11.00,£0.00,2,0.08%,All
+101,Baby Roast,Kids Menu,SUNDAY ROAST SPECIALS MENU - duplicate,6,£59.94,£59.94,£0.00,4,0.42%,All
+102,Chicken Goujons with Chips,Kids Menu,SUNDAY ROAST SPECIALS MENU - duplicate,3,£29.97,£29.97,£0.00,1,0.21%,All
+103,House White,White Wines,DRINKS MENU,8,£77.10,£77.10,£0.00,6,0.54%,All
+104,Pinot Grigio,White Wines,DRINKS MENU,21,£211.70,£211.70,£0.00,17,1.47%,All
+105,Pecorino,White Wines,DRINKS MENU,2,£15.00,£15.00,£0.00,2,0.10%,All
+106,Sauvignon Blanc,White Wines,DRINKS MENU,13,£101.86,£101.86,£0.00,12,0.71%,All
+107,Pinot Grigio Blush Ponte,Rose Wines,DRINKS MENU,5,£32.50,£32.50,£0.00,4,0.23%,All
+108,Buffalo Ridge Zinfandel Rose,Rose Wines,DRINKS MENU,9,£87.55,£87.55,£0.00,8,0.61%,All
+109,House Red,Red Wines,DRINKS MENU,10,£90.50,£90.50,£0.00,10,0.63%,All
+110,Valpolicella DOC,Red Wines,DRINKS MENU,2,£32.24,£32.24,£0.00,2,0.22%,All
+111,Merlot,World Reds,DRINKS MENU,9,£76.63,£76.63,£0.00,5,0.53%,All
+112,Mr Goose Shiraz,World Reds,DRINKS MENU,2,£15.21,£15.21,£0.00,2,0.11%,All
+113,Malbec,World Reds,DRINKS MENU,5,£58.34,£58.34,£0.00,4,0.41%,All
+114,Prosecco DOC,Sparkling Wines,DRINKS MENU,5,£109.25,£109.25,£0.00,5,0.76%,All
+115,Tiramisu Espresso Martini,Zia Signature Cocktails,DRINKS MENU,2,£17.50,£17.50,£0.00,2,0.12%,All
+116,Sex on the Beach,Cocktails,DRINKS MENU,15,£131.25,£131.25,£0.00,7,0.91%,All
+117,Tequila Sunrise,Cocktails,DRINKS MENU,3,£0.00,£0.00,£0.00,3,0.00%,All
+118,Negroni,Cocktails,DRINKS MENU,3,£8.75,£8.75,£0.00,2,0.06%,All
+119,Aperol Spritz,Cocktails,DRINKS MENU,2,£0.00,£0.00,£0.00,2,0.00%,All
+120,Limoncello Bellini,Cocktails,DRINKS MENU,4,£8.75,£8.75,£0.00,3,0.06%,All
+121,Pina Colada,Cocktails,DRINKS MENU,2,£0.00,£0.00,£0.00,1,0.00%,All
+122,Classic Margarita,Cocktails,DRINKS MENU,3,£0.00,£0.00,£0.00,2,0.00%,All
+123,Spiced Rum and Raspberry Lemonade with Ginger Ale,Cocktails,DRINKS MENU,1,£0.00,£0.00,£0.00,1,0.00%,All
+124,Virgin Mojito,Mocktails,DRINKS MENU,1,£5.75,£5.75,£0.00,1,0.04%,All
+125,Tropical Sunset,Mocktails,DRINKS MENU,2,£11.50,£11.50,£0.00,2,0.08%,All
+126,Strawberry Lemonade Fizz,Mocktails,DRINKS MENU,3,£14.95,£14.95,£0.00,2,0.10%,All
+127,Blackcurrant Fizz,Mocktails,DRINKS MENU,1,£5.75,£5.75,£0.00,1,0.04%,All
+128,Elderflower Lemon Fizz,Mocktails,DRINKS MENU,24,£136.85,£136.85,£0.00,4,0.95%,All
+129,Carlsberg Pilsner,Draught Beers and Ciders,DRINKS MENU,11,£40.07,£40.07,£0.00,6,0.28%,All
+130,Thatchers Gold Cider,Draught Beers and Ciders,DRINKS MENU,39,£186.73,£186.73,£0.00,26,1.30%,All
+131,Angelo Poretti (Italian Lager),Draught Beers and Ciders,DRINKS MENU,87,£425.33,£425.33,£0.00,52,2.96%,All
+132,Guinness,Draught Beers and Ciders,DRINKS MENU,21,£106.50,£106.50,£0.00,14,0.74%,All
+133,Wainwright Amber Ale,Draught Beers and Ciders,DRINKS MENU,18,£85.00,£85.00,£0.00,10,0.59%,All
+134,Hobgoblin Session IPA,Draught Beers and Ciders,DRINKS MENU,17,£88.73,£88.73,£0.00,12,0.62%,All
+135,Shipyard American Pale Ale,Draught Beers and Ciders,DRINKS MENU,13,£63.01,£63.01,£0.00,10,0.44%,All
+136,1664 Blanc,Draught Beers and Ciders,DRINKS MENU,16,£86.26,£86.26,£0.00,9,0.60%,All
+137,Estrella Damm,Draught Beers and Ciders,DRINKS MENU,16,£92.00,£92.00,£0.00,12,0.64%,All
+138,Peroni Nastro Azzurro (330ml),Bottled Beers and Ciders,DRINKS MENU,4,£17.41,£17.41,£0.00,3,0.12%,All
+139,Birra Moretti (330ml),Bottled Beers and Ciders,DRINKS MENU,2,£9.00,£9.00,£0.00,2,0.06%,All
+140,Corona Extra (330ml),Bottled Beers and Ciders,DRINKS MENU,1,£4.95,£4.95,£0.00,1,0.03%,All
+141,Thatchers Blood Orange (500ml),Bottled Beers and Ciders,DRINKS MENU,5,£25.00,£25.00,£0.00,4,0.17%,All
+142,Kopparberg Mixed Fruit (500ml),Bottled Beers and Ciders,DRINKS MENU,4,£21.00,£21.00,£0.00,4,0.15%,All
+143,Peroni 0.0,Alcohol-Free Beers and Ciders 0Percent,DRINKS MENU,10,£46.50,£46.50,£0.00,7,0.32%,All
+144,Guinness 0.0,Alcohol-Free Beers and Ciders 0Percent,DRINKS MENU,24,£111.40,£111.40,£0.00,18,0.78%,All
+145,Heineken 0.0,Alcohol-Free Beers and Ciders 0Percent,DRINKS MENU,7,£32.55,£32.55,£0.00,7,0.23%,All
+146,Thatchers 0.0,Alcohol-Free Beers and Ciders 0Percent,DRINKS MENU,2,£9.30,£9.30,£0.00,1,0.06%,All
+147,Gordons,Gin,DRINKS MENU,1,£7.50,£7.50,£0.00,1,0.05%,All
+148,Tanqueray,Gin,DRINKS MENU,2,£17.00,£17.00,£0.00,1,0.12%,All
+149,Smirnoff,Vodka,DRINKS MENU,4,£21.00,£21.00,£0.00,4,0.15%,All
+150,Absolut,Vodka,DRINKS MENU,6,£33.00,£33.00,£0.00,4,0.23%,All
+151,Grey Goose,Vodka,DRINKS MENU,5,£50.00,£50.00,£0.00,4,0.35%,All
+152,Jameson,Whisky,DRINKS MENU,3,£20.00,£20.00,£0.00,2,0.14%,All
+153,Jack Daniels,Whisky,DRINKS MENU,2,£17.00,£17.00,£0.00,1,0.12%,All
+154,Johnnie Walker Double Black,Whisky,DRINKS MENU,1,£11.00,£11.00,£0.00,1,0.08%,All
+155,Bacardi - White,Rum,DRINKS MENU,1,£7.50,£7.50,£0.00,1,0.05%,All
+156,Dead Mans Fingers,Rum,DRINKS MENU,1,£5.50,£5.50,£0.00,1,0.04%,All
+157,Lambs Navy,Rum,DRINKS MENU,1,£5.00,£5.00,£0.00,1,0.03%,All
+158,Jose Cuervo Especial,Tequila,DRINKS MENU,4,£20.00,£20.00,£0.00,2,0.14%,All
+159,Pepsi,Soft Drinks,DRINKS MENU,35,£100.17,£100.17,£0.00,23,0.70%,All
+160,Pepsi Max,Soft Drinks,DRINKS MENU,97,£285.56,£285.56,£0.00,54,1.99%,All
+161,R Whites Lemonade,Soft Drinks,DRINKS MENU,51,£147.37,£147.37,£0.00,37,1.03%,All
+162,Indian Tonic,Soft Drinks,DRINKS MENU,2,£5.90,£5.90,£0.00,2,0.04%,All
+163,Raspberry Tonic,Soft Drinks,DRINKS MENU,5,£11.80,£11.80,£0.00,5,0.08%,All
+164,Ginger Ale,Soft Drinks,DRINKS MENU,3,£8.85,£8.85,£0.00,2,0.06%,All
+165,Fanta,Soft Drinks,DRINKS MENU,8,£23.60,£23.60,£0.00,8,0.16%,All
+166,Sprite,Soft Drinks,DRINKS MENU,4,£11.53,£11.53,£0.00,4,0.08%,All
+167,Tango Orange,Soft Drinks,DRINKS MENU,4,£11.80,£11.80,£0.00,2,0.08%,All
+168,Orange Juice,Soft Drinks,DRINKS MENU,5,£14.75,£14.75,£0.00,5,0.10%,All
+169,Apple Juice,Soft Drinks,DRINKS MENU,19,£56.05,£56.05,£0.00,13,0.39%,All
+170,J20,Soft Drinks,DRINKS MENU,26,£76.14,£76.14,£0.00,21,0.53%,All
+171,Rio Tropical,Soft Drinks,DRINKS MENU,13,£38.35,£38.35,£0.00,9,0.27%,All
+172,San Pellegrino,Soft Drinks,DRINKS MENU,13,£38.08,£38.08,£0.00,10,0.27%,All
+173,Mineral Water 500ml,Soft Drinks,DRINKS MENU,15,£51.35,£51.35,£0.00,14,0.36%,All
+174,Red Bull (250ml),Soft Drinks,DRINKS MENU,1,£3.45,£3.45,£0.00,1,0.02%,All
+175,Espresso,Hot Drinks,DRINKS MENU,5,£11.50,£11.50,£0.00,3,0.08%,All
+176,Americano,Hot Drinks,DRINKS MENU,18,£61.25,£61.25,£0.00,11,0.43%,All
+177,Latte,Hot Drinks,DRINKS MENU,17,£66.85,£66.85,£0.00,10,0.47%,All
+178,Cappuccino,Hot Drinks,DRINKS MENU,11,£42.36,£42.36,£0.00,10,0.29%,All
+179,Flat White,Hot Drinks,DRINKS MENU,7,£27.25,£27.25,£0.00,6,0.19%,All
+180,Hot Chocolate,Hot Drinks,DRINKS MENU,4,£17.00,£17.00,£0.00,3,0.12%,All
+181,English Breakfast Tea (Mug),Hot Drinks,DRINKS MENU,7,£19.50,£19.50,£0.00,5,0.14%,All
+182,Pork Roulade With Minced Meat Stuffing,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,9,£151.60,£151.60,£0.00,8,1.06%,All
+183,Turkey Roulade with Bacon with Chestnut and Sage,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,10,£172.76,£172.76,£0.00,10,1.20%,All
+184,2-Meat Roast,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,38,£796.10,£796.10,£0.00,21,5.54%,All
+185,3-Meat Roast,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,2,£47.90,£47.90,£0.00,2,0.33%,All
+186,4-Meat Feast,Main Roast,SUNDAY ROAST SPECIALS MENU - duplicate,3,£80.85,£80.85,£0.00,2,0.56%,All
+187,Dite Coke,Soft Drinks,DRINKS MENU,25,£70.41,£70.41,£0.00,17,0.49%,All
+188,Coke Original,Soft Drinks,DRINKS MENU,19,£56.05,£56.05,£0.00,15,0.39%,All
+189,Coke Zero,Soft Drinks,DRINKS MENU,11,£32.16,£32.16,£0.00,9,0.22%,All
+190,Coke Pint,Soft Drinks,DRINKS MENU,14,£82.60,£82.60,£0.00,9,0.58%,All
+191,Schweppes Soda Water,Soft Drinks,DRINKS MENU,26,£73.75,£73.75,£0.00,17,0.51%,All
+192,Schweppes Tonic Water,Soft Drinks,DRINKS MENU,13,£38.35,£38.35,£0.00,13,0.27%,All
+193,Soup of the Day,Starters,FOOD MENU,2,£0.00,£0.00,£0.00,2,0.00%,All
+194,Breaded Brie,Starters,FOOD MENU,19,£14.31,£14.31,£0.00,15,0.10%,All
+195,Pork Belly Bites,Starters,FOOD MENU,20,£26.85,£26.85,£0.00,17,0.19%,All
+196,Olives and Hummus,Starters,FOOD MENU,7,£0.00,£0.00,£0.00,4,0.00%,All
+197,Zia Nachos,Starters,FOOD MENU,6,£19.46,£19.46,£0.00,6,0.14%,All
+198,Prawn Cocktail,Starters,FOOD MENU,31,£35.80,£35.80,£0.00,20,0.25%,All
+199,Garlic Pizza Bread,Sides,FOOD MENU,4,£25.12,£25.12,£0.00,4,0.17%,All
+200,Garlic Dough Balls,Starters,FOOD MENU,11,£23.00,£23.00,£0.00,10,0.16%,All
+201,Classic Crispy Chicken Wings,Starters,FOOD MENU,2,£7.95,£7.95,£0.00,2,0.06%,All
+202,BBQ Chicken Wings,Starters,FOOD MENU,4,£15.90,£15.90,£0.00,4,0.11%,All
+203,Hot Honey Chicken Wings,Starters,FOOD MENU,10,£22.26,£22.26,£0.00,10,0.15%,All
+204,Southern Fried Chicken,Starters,FOOD MENU,13,£0.00,£0.00,£0.00,13,0.00%,All
+205,Classic Fries,Sides,FOOD MENU,9,£35.16,£35.16,£0.00,8,0.24%,All
+206,Arancini Bolognese,Starters,FOOD MENU,9,£11.90,£11.90,£0.00,9,0.08%,All
+207,Burrata Salad (V),Sides,FOOD MENU,2,£17.90,£17.90,£0.00,2,0.12%,All
+208,Steak and Ale Pie,Pub Mains,Relaunch Weekend Offer,19,£320.37,£320.37,£0.00,15,2.23%,All
+209,Chicken Milanese,Pub Mains,Relaunch Weekend Offer,10,£147.55,£147.55,£0.00,9,1.03%,All
+210,Beef Stew,Pub Mains,Relaunch Weekend Offer,9,£139.05,£139.05,£0.00,6,0.97%,All
+211,Classic Beef Burger,Pub Mains,Relaunch Weekend Offer,9,£152.55,£152.55,£0.00,9,1.06%,All
+212,Crispy Chicken Burger,Pub Mains,Relaunch Weekend Offer,12,£174.00,£174.00,£0.00,11,1.21%,All
+213,Slow-Cooked BBQ Pork Ribs,Pub Mains,Relaunch Weekend Offer,10,£159.50,£159.50,£0.00,8,1.11%,All
+214,Roast Chicken,Pub Mains,Relaunch Weekend Offer,5,£77.50,£77.50,£0.00,5,0.54%,All
+215,Margherita (V),Pizzas,Relaunch Weekend Offer,7,£85.26,£85.26,£0.00,6,0.59%,All
+216,Pepperoni,Pizzas,Relaunch Weekend Offer,11,£153.95,£153.95,£0.00,11,1.07%,All
+217,Hot Honey Pepperoni,Pizzas,Relaunch Weekend Offer,13,£207.35,£207.35,£0.00,11,1.44%,All
+218,Zia Special,Pizzas,Relaunch Weekend Offer,7,£113.65,£113.65,£0.00,7,0.79%,All
+219,Hawaiian,Pizzas,Relaunch Weekend Offer,4,£55.80,£55.80,£0.00,4,0.39%,All
+220,Vegetariana (V),Pizzas,Relaunch Weekend Offer,3,£39.68,£39.68,£0.00,3,0.28%,All
+221,Pollo Barbecue,Pizzas,Relaunch Weekend Offer,4,£61.80,£61.80,£0.00,4,0.43%,All
+222,Beef Brisket BBQ,Pizzas,Relaunch Weekend Offer,6,£101.49,£101.49,£0.00,4,0.71%,All
+223,Lasagne Al Forno 0,Pastas,Relaunch Weekend Offer,13,£181.35,£181.35,£0.00,10,1.26%,All
+224,Spaghetti Bolognese 0,Pastas,Relaunch Weekend Offer,6,£77.70,£77.70,£0.00,4,0.54%,All
+225,Spaghetti Carbonara 0,Pastas,Relaunch Weekend Offer,10,£125.00,£125.00,£0.00,10,0.87%,All
+226,Chicken Alfredo 0,Pastas,Relaunch Weekend Offer,8,£103.60,£103.60,£0.00,8,0.72%,All
+227,Penne Arrabbiata (VG) 0,Pastas,Relaunch Weekend Offer,6,£67.76,£67.76,£0.00,5,0.47%,All
+228,Tiramisu Truffle Bites,Desserts,DESSERTS MENU,18,£0.00,£0.00,£0.00,12,0.00%,All
+229,Profiteroles,Desserts,DESSERTS MENU,29,£31.65,£31.65,£0.00,21,0.22%,All
+230,Warm Chocolate Brownie,Desserts,DESSERTS MENU,35,£45.50,£45.50,£0.00,23,0.32%,All
+231,Bread and Butter Pudding,Desserts,DESSERTS MENU,29,£32.50,£32.50,£0.00,19,0.23%,All
+232,Gelato,Desserts,DESSERTS MENU,11,£19.80,£19.80,£0.00,10,0.14%,All
+233,Kids - 2 Course,Kids Menu,FOOD MENU,6,£57.00,£57.00,£0.00,4,0.40%,All
+234,Classic Fries,Sides,Third Party Menu,1,£4.80,£4.80,£0.00,1,0.03%,All
+235,Kids Mains,Kids Menu,FOOD MENU,4,£27.96,£27.96,£0.00,4,0.19%,All
+236,Garlic Mayo,Dips,FOOD MENU,3,£3.00,£3.00,£0.00,2,0.02%,All
+237,Halloumi Burger V,Pub Mains,Relaunch Weekend Offer,5,£69.50,£69.50,£0.00,5,0.48%,All
+238,Steak and Ale Pie,Pub Mains,FOOD MENU,1,£16.95,£16.95,£0.00,1,0.12%,All
+239,Chicken Milanese,Pub Mains,FOOD MENU,1,£13.00,£13.00,£0.00,1,0.09%,All
+240,Hot Honey Pepperoni,Pizzas,FOOD MENU,2,£31.90,£31.90,£0.00,2,0.22%,All
+241,Tiramisu Affogate,Desserts,DESSERTS MENU,9,£0.00,£0.00,£0.00,5,0.00%,All
+242,Polpette della Nonna Pina,Starters,Takeaway Menu,1,£8.45,£8.45,£0.00,1,0.06%,All
+243,Southern Fried Chicken Goujons (4 pieces),Starters,Takeaway Menu,2,£14.90,£14.90,£0.00,2,0.10%,All
+244,Classic Fries,Sides,Takeaway Menu,4,£19.00,£19.00,£0.00,4,0.13%,All
+245,Funghi Pizza (V),Pizzas,Takeaway Menu,4,£47.55,£47.55,£0.00,3,0.33%,All
+246,Romana Pizza,Pizzas,Takeaway Menu,3,£32.10,£32.10,£0.00,3,0.22%,All
+247,Tiramisu,Desserts,Takeaway Menu,1,£0.00,£0.00,£0.00,1,0.00%,All
+248,Soft Drinks (330ml),Drinks,Takeaway Menu,1,£0.00,£0.00,£0.00,1,0.00%,All
+249,Hot Honey Pepperoni,Stone Baked Pizzas 12Inch,Takeaway,1,£14.95,£14.95,£0.00,1,0.10%,All
+250,Beef Brisket Pizza,Stone Baked Pizzas 12Inch,Takeaway,1,£16.95,£16.95,£0.00,1,0.12%,All
+251,Garlic Dough Balls (7 pcs),Garlic Bread and Dough Balls,Takeaway,1,£3.75,£3.75,£0.00,1,0.03%,All
+252,Cheesy Dough Balls,Garlic Bread and Dough Balls,Takeaway,1,£4.25,£4.25,£0.00,1,0.03%,All
+Total,,,,2066,"£14,364.19","£14,364.19",£0.00,1559,,
